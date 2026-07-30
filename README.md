@@ -2,6 +2,8 @@
 
 Aplicación web (un solo archivo HTML) para dividir textos largos en bloques de tamaño controlado, respetando el final de las frases.
 
+![img](/img.png)
+
 ## Características
 
 - **Corte inteligente**
