@@ -1,5 +1,4 @@
-# Divisor de texto para TTS
-
+# Separador de Texto
 Aplicación web (un solo archivo HTML) para dividir textos largos en bloques de tamaño controlado, respetando el final de las frases.
 
 ![img](/img.png)
